@@ -8,7 +8,7 @@
 
     - Big-O Notation & Statements & Functions 
 
-    - 📖 [Homework: Tic Tac Toe Algorithm]()
+    - 📖 [Homework: Tic Tac Toe Algorithm](https://github.com/enesmanan/akbank-patika-bootcamp/tree/main/Week_1)
 
 - 👉 Week 2
 

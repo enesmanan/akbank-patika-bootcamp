@@ -1,27 +1,33 @@
 # ✨ Akbank Patika Bootcamp 
 
-- 👉 Week 1 
+This repo contains assignments and the final project from a 7-week bootcamp organized in collaboration between Akbank and Patika.
 
-    - Intro to Algorithms
 
-    - Algorithms: Recursion & Binary Search & Quicksort
+#### 📑 Curriculum
+<details>
+<summary>👉 Week 1</summary>
 
-    - Big-O Notation & Statements & Functions 
+- Intro to Algorithms
+- Algorithms: Recursion & Binary Search & Quicksort
+- Big-O Notation & Statements & Functions 
+- 📖 [Homework: Tic Tac Toe Algorithm](https://github.com/enesmanan/akbank-patika-bootcamp/tree/main/Week_1)
 
-    - 📖 [Homework: Tic Tac Toe Algorithm](https://github.com/enesmanan/akbank-patika-bootcamp/tree/main/Week_1)
+</details>
 
-- 👉 Week 2
+<details>
+<summary>👉 Week 2</summary>
 
-    - Overview of AI and Its Evolution
+- Overview of AI and Its Evolution
+- AI in Practice: Examples and Applications & ChatGPT Mechanisms
+- Generative AI Revolution
+- 📖 Homework: Soft Skills
 
-    - AI in Practice: Examples and Applications & ChatGPT Mechanisms
+</details>
 
-    - Generative AI Revolution
+<details>
+<summary>👉 Week 3</summary>
 
-    - 📖 Homework: Soft Skills
+- Introduction to Data Structures
+- Data Types vs. Abstract Data Types
 
-- 👉 Week 3
-  
-    - Introduction to Data Structures
-
-    - Data Types vs. Abstract Data Types
+</details>

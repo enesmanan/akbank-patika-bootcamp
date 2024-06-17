@@ -21,3 +21,7 @@
     - 📖 Homework: Soft Skills
 
 - 👉 Week 3
+  
+    - Introduction to Data Structures
+
+    - Data Types vs. Abstract Data Types

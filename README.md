@@ -29,5 +29,18 @@ This repo contains assignments and the final project from a 7-week bootcamp orga
 
 - Introduction to Data Structures
 - Data Types vs. Abstract Data Types
+- 📖 Homework: Soft Skills
+</details>
+
+
+<details>
+<summary>👉 Week 4</summary>
+
+- Retrieving data from the web using Flask
+- Retrieving data from databases
+- Data Cleaning
+- Preparing data for Machine Learning
+- Data Visualization
+- An end-to-end project for preparing a dataset
 
 </details>

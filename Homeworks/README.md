@@ -1,4 +1,4 @@
-## Week 1 Homeworks
+## Homeworks
 
 The algorithm for the Tic Tac Toe game was written in Excel. Additionally, a version with a graphical user interface (GUI) was coded using tkinter.
 

@@ -61,9 +61,15 @@ This repo contains assignments and the final project from a 7-week bootcamp orga
 </details>
 
 
-<details>
-<summary>👉 Week 7</summary>
+### 👉 Final Project
 
-- [Final Project: AkBot](https://github.com/enesmanan/akbot)
+> ✨[**Final Project: AkBot**](https://github.com/enesmanan/akbot)
 
 </details>
+
+### Certificate 
+
+
+<img src="https://github.com/user-attachments/assets/00acc01a-064b-4f59-882e-5d4151e3f974" alt="certifica" width="600"/>
+
+[validate✅](http://cohorts.patika.dev/certificates/33fc449c)
